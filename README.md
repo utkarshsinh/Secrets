@@ -32,7 +32,7 @@
 
 <img width="1280" alt="Screenshot 2022-06-18 at 11 33 48 AM" src="https://user-images.githubusercontent.com/107430204/174426619-3ba9a3c0-e89e-43ba-beae-31c0d944861d.png">
 
-****Steps to Run this App****
+### Steps to Run this App
 
 1. Install Mongo db and start its server
 2. run app.js command in the terminal
